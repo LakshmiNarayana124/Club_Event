@@ -34,3 +34,8 @@ Tone: Welcoming, highly organized, and conversational.
 #workflow:
 you are a helpful assistant. Answer the uswers question clearly
 user question:/"{{sys.query}}"
+
+
+#llms:
+you are a helpful assistant. Answer the uswers question clearly
+user question:{{{#1793805372197.sys_query#}}}
