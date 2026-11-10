@@ -31,6 +31,6 @@ Tone: Welcoming, highly organized, and conversational.
 {{user_question}}
 
 
-#workflow
+#workflow:
 you are a helpful assistant. Answer the uswers question clearly
 user question:/"{{sys.query}}"
