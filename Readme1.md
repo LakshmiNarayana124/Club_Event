@@ -30,13 +30,6 @@ Tone: Welcoming, highly organized, and conversational.
 [USER QUESTION]
 {{user_question}}
 
---- CLUB WORKSHOP SCHEDULE ---
-Event Name: Smart Campus Hackathon 2026
-Venue: Main Seminar Hall, Block C
-Timings: 09:00 AM to 05:00 PM IST
-Registration Link: https://bit.ly
-Food Policy: Free lunch tokens will be distributed at the registration counter at 01:00 PM.
-
 
 #workflow
 you are a helpful assistant. Answer the uswers question clearly
